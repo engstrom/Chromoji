@@ -21,6 +21,7 @@
   ],
   "web_accessible_resources": [
     "images/*.png",
-    "chardict.json"
+    "chardict.json",
+    "jquery.min.map"
   ]
 }
